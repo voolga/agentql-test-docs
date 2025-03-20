@@ -1,5 +1,10 @@
-node_modules
 .env.local
-.next
-public
 agentql-test.2025-03-18.private-key.pem
+node_modules
+.next
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+public/
